@@ -194,7 +194,7 @@
       <option name="presentableId" value="Default" />
       <updated>1550655353144</updated>
       <workItem from="1550655354603" duration="4806000" />
-      <workItem from="1550740885646" duration="773000" />
+      <workItem from="1550740885646" duration="1049000" />
     </task>
     <task id="LOCAL-00001" summary="Improve the README">
       <created>1550741422607</created>
@@ -207,7 +207,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5579000" />
+    <option name="totallyTimeSpent" value="5855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1489" height="1167" extended-state="0" />
